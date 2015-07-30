@@ -1,2 +1,2 @@
 # rsobash.github.io
-Personal website
+Personal website, updated
